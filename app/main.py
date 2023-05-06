@@ -16,6 +16,7 @@ chave = "BEST"
 # https://intellipaat.com/blog/vigenere-cipher/
 #########################################################################
 #test 6may 12:31
+#test 6may 12:36
 
 
 if __name__ == '__main__':
